@@ -1,6 +1,6 @@
 {
   "name": "@everymundo/global-root-dir",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Sets a global variable variable __rootdir",
   "main": "index.js",
   "scripts": {
