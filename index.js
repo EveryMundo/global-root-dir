@@ -1,3 +1,3 @@
-const { setGlobalRootDir } = require('./set-gobal-root-dir');
+const { setGlobalRootDir } = require('./set-gobal-root-dir')
 
-module.exports = { setGlobalRootDir };
+module.exports = { setGlobalRootDir }
